@@ -1,11 +1,11 @@
-<!-- ---
+---
 permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 
 Hey there! My name is Jingni and I'm a graduate of the [Computational Linguistics program at Georgetown University](https://gucl.georgetown.edu/).
