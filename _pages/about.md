@@ -1,21 +1,20 @@
----
+<!-- ---
 permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
-😊 About me 
-------
+
 Hey there! My name is Jingni and I'm a graduate of the [Computational Linguistics program at Georgetown University](https://gucl.georgetown.edu/).
 
 My research interests lie in computational discourse modeling, information theory, and NLP for social good. I’m passionate about applying linguistic insights to the development and evaluation of language models, especially in the context of AI safety and bias detection. I aim to contribute to building linguistics-motivated, transparent, and efficient NLP tools.
 
 I'm currently collaborating with [Professor Amir Zeldes](https://scholar.google.com/citations?user=Grvf4zYAAAAJ&hl=en) on my graduation research paper titled "*Unpacking Ambiguity: The Interaction of Polysemous Discourse Markers and Non-DM Signals*" for the [CODI CRAC workshop at EMNLP 2025](https://sites.google.com/view/codi-crac2025/home). In this project, we employed Shannon Entropy --- a fundamental concept in information theory --- and statistical modeling to quantify the "ambiguity" of discourse markers and other signals which mark discourse relations. We're also working together on the [DISRPT 2025 Shared Task](https://sites.google.com/view/disrpt2025/), where we aim to develop more efficient systems for discourse relation parsing and classification.
 
-Outside of school, you'll probably find me making a weiredly shaped bowl at the pottery studio or decorating my bullet journal. I'm also a big fan of learning new languages --- in addition to being fluent in Japanese and English, I've been studying French for two years and am taking Korean courses. Always love to learn more!
+Outside of school, you'll probably find me making a weirdly shaped bowl at the pottery studio or decorating my bullet journal. I'm also a big fan of learning new languages --- in addition to being fluent in Japanese and English, I've been studying French for two years and am taking Korean courses. Always love to learn more!
 
 💡 News
 ------
